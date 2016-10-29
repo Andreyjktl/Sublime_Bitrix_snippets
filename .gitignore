@@ -1,0 +1,9 @@
+# ---- РАСШИРЕНИЯ ----
+*.crt
+*.last-run
+*.merged-ca-bundle
+*.sublime-settings
+*.user-ca-bundle
+
+# ---- ДИРЕКТОРИИ ----
+Package Control.cache/*
