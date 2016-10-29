@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+        $MESS['${1}']  = '${2}';
+  ]]></content>
+    <tabTrigger>bx-lang</tabTrigger>
+    <scope>source.php</scope>
+    <description>добавление строки в lang файл</description>
+</snippet>

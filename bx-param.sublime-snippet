@@ -1,0 +1,16 @@
+
+<snippet>
+    <content><![CDATA[
+     '${1}' => array(
+            'NAME' => GetMessage("${1}"),
+            'TYPE' => 'STRING',
+            'MULTIPLE' => 'N',
+            'DEFAULT' => '',
+            'PARENT' => 'OTCHET',
+        ),
+  ]]></content>
+    <tabTrigger>bx-param</tabTrigger>
+    <scope>source.php</scope>
+    <description>параметр компонента</description>
+</snippet>
+
